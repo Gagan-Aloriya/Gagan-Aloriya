@@ -1,3 +1,4 @@
+![logo](https://github.com/Gagan-Aloriya/Gagan-Aloriya/blob/main/github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Gagan-Aloriya</h1>
 <h3 align="center">A upcoming passionate CS WITH AI Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.behance.net/gallery/105775659/creative-coding-explorations/modules/607910191.gif">
